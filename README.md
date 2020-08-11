@@ -1,4 +1,4 @@
-### Hi there I'm Alvin Mantovani and I'm on way learning Fron End Engineer 👋
+### Hi there I'm Alvin Mantovani and I'm on way to be Front End Engineer 👋
 # Front End Engineer
 
 - 🌱 I’m currently learning JavaScript
