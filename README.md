@@ -14,6 +14,9 @@
 ## Github Performance Overall
 ![github stats](https://github-readme-stats.vercel.app/api?username=alvin-ictn&show_icons=true&count_private=true&theme=dark)
 
-## My Top Language and Time to Code
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alvin-ictn&layout=compact&langs_count=10)](https://github.com/alvin-ictn/) [![alvin-ictn's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=alvinictn)](https://github.com/alvin-ictn/)
+## My Top Language
+[![alvin-ictn's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alvin-ictn&layout=compact&langs_count=10)](https://github.com/alvin-ictn/) 
+
+##  Time to Code
+[![alvin-ictn's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=alvinictn)](https://github.com/alvin-ictn/)
 
