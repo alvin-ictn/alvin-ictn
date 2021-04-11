@@ -12,5 +12,5 @@
 [![Github Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Falvin-ictn&count_bg=%23c43c00&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=alvin-ictn+Profile+Views&edge_flat=false)](https://github.com/alvin-ictn/)
 
 # Github Performance Overall
-![github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&count_private=true&theme=dark)
+![github stats](https://github-readme-stats.vercel.app/api?username=alvin-ictn&show_icons=true&count_private=true&theme=dark)
 
