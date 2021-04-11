@@ -15,4 +15,4 @@
 ![github stats](https://github-readme-stats.vercel.app/api?username=alvin-ictn&show_icons=true&count_private=true&theme=dark)
 
 ## My Top Language
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alvin-ictn&layout=compact)](https://github.com/alvin-ictn/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alvin-ictn&layout=compact&langs_count=10)](https://github.com/alvin-ictn/)
