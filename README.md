@@ -1,12 +1,9 @@
-### Hi there I'm Alvin Mantovani and I'm on way to be Front End Engineer 👋
-# Front End Engineer
+### Hi there I'm Alvin Mantovani 👋
+# Front End Developer
 
-- 🌱 I’m currently learning JavaScript
-- 💬 Ask me about Web Development, Computer Network, and Python Scripting
+- 🌱 Growing with JavaScript
 - 📫 How to reach me: 
     Discord  : http://discord.gg/nHwsmtC
-    Facebook : fb.com/alvinmtv
-- ⚡ Fun fact: I love to code, and will pursue it harder than others arround me.
 
 ## Profile Hits
 [![Github Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Falvin-ictn&count_bg=%23c43c00&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=alvin-ictn+Profile+Views&edge_flat=false)](https://github.com/alvin-ictn/)
